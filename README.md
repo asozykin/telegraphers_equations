@@ -1,2 +1,2 @@
 # "Long lines", or the Telegrapher's equations demo.
-A demo for the lab coursework on electricity taught at the MSOU university in 2001-2003. Written in C++ Builder as a part of my summer practice in applied maths and programming at MSTU Stankin. Featured dynamic 2D charts and static 3D chats of the solutions of the Telegraphers equations.
+A demo for the lab coursework on electricity taught at the MSOU university. Written in C++ Builder as a part of my summer practice in applied maths and programming at MSTU Stankin in the year 2000. Featured dynamic 2D charts and static 3D chats of the solutions of the Telegraphers equations. Proprietary third-party library for complex numbers not included.
